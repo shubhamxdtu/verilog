@@ -1,0 +1,15 @@
+{C:/Users/windows10/Desktop/verilog questa andgate/gates/allgates_tb.v} {1 {vlog -work work -vopt -stats=none {C:/Users/windows10/Desktop/verilog questa andgate/gates/allgates_tb.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module basic_gates_tb
+
+Top level modules:
+	basic_gates_tb
+
+} {} {}} {C:/Users/windows10/Desktop/verilog questa andgate/gates/allgates.v} {1 {vlog -work work -vopt -stats=none {C:/Users/windows10/Desktop/verilog questa andgate/gates/allgates.v}
+QuestaSim-64 vlog 10.7c Compiler 2018.08 Aug 18 2018
+-- Compiling module basic_gates
+
+Top level modules:
+	basic_gates
+
+} {} {}}

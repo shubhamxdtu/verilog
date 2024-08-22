@@ -1,0 +1,80 @@
+$date
+	Thu Aug 22 11:39:37 2024
+$end
+$version
+	QuestaSim Version 10.7c
+$end
+$timescale
+	1ps
+$end
+
+$scope module basic_gates_tb $end
+
+$scope module uut $end
+$var wire 1 ! a $end
+$var wire 1 " b $end
+$var wire 1 # and_out $end
+$var wire 1 $ or_out $end
+$var wire 1 % not_out $end
+$var wire 1 & nand_out $end
+$var wire 1 ' nor_out $end
+$var wire 1 ( xor_out $end
+$var wire 1 ) xnor_out $end
+$upscope $end
+$var reg 1 * a $end
+$var reg 1 + b $end
+$var wire 1 # and_out $end
+$var wire 1 $ or_out $end
+$var wire 1 % not_out $end
+$var wire 1 & nand_out $end
+$var wire 1 ' nor_out $end
+$var wire 1 ( xor_out $end
+$var wire 1 ) xnor_out $end
+
+$scope module uut $end
+$var wire 1 ! a $end
+$var wire 1 " b $end
+$var wire 1 # and_out $end
+$var wire 1 $ or_out $end
+$var wire 1 % not_out $end
+$var wire 1 & nand_out $end
+$var wire 1 ' nor_out $end
+$var wire 1 ( xor_out $end
+$var wire 1 ) xnor_out $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+$dumpvars
+0*
+0+
+0#
+0$
+1%
+1&
+1'
+0(
+1)
+0"
+0!
+$end
+#20000
+1+
+1"
+1$
+0'
+1(
+0)
+#30000
+1*
+0+
+1!
+0"
+0%
+#40000
+1+
+1"
+1#
+0&
+0(
+1)
